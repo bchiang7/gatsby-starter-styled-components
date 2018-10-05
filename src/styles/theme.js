@@ -3,12 +3,11 @@ const theme = {
     white: '#ffffff',
     black: '#000000',
     purple: 'rebeccapurple',
+    blue: 'dodgerblue',
   },
 
   fonts: {
-    Calibre:
-      'Calibre, San Francisco, SF Pro Text, -apple-system, system-ui, BlinkMacSystemFont, Roboto, Helvetica Neue, Segoe UI, Arial, sans-serif',
-    SFMono: 'SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console, Monaco, monospace',
+    base: '-apple-system, system-ui, BlinkMacSystemFont, Arial, sans-serif',
   },
 
   fontSizes: {
