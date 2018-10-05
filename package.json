@@ -1,11 +1,11 @@
 {
-  "name": "halcyon",
+  "name": "gatsby-starter-styled-components",
   "version": "0.1.0",
-  "description": "A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.",
+  "description": "Default gatsby starter with styled components",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/halcyon-site"
+    "url": "https://github.com/bchiang7/gatsby-starter-styled-components"
   },
   "license": "MIT",
   "scripts": {
