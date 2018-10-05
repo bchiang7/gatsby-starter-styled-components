@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's Default Starter with Styled Components
+  Gatsby's V2 Default Starter with Styled Components
 </h1>
 
 Kick off your project with this default boilerplate. This barebones starter ships with the main Gatsby configuration files you might need.
@@ -44,7 +44,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Your site is now running at `http://localhost:8000`!
 
-    _Note: You'll also see a second link: `http://localhost:8000___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://next.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+    \_Note: You'll also see a second link: `http://localhost:8000___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://next.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).\_
 
     Open the the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
