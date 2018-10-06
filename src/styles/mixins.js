@@ -1,6 +1,5 @@
 import { css } from 'styled-components';
 import theme from './theme';
-import media from './media';
 
 const mixins = {
   flexCenter: css`
