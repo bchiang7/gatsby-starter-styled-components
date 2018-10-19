@@ -5,8 +5,8 @@ import { StaticQuery, graphql } from 'gatsby';
 
 import Header from './header';
 
-import '../styles/base';
 import styled from 'styled-components';
+import { GlobalStyle } from '../styles';
 
 const Content = styled.div`
   margin: 0 auto;
@@ -36,6 +36,7 @@ const Layout = ({ children }) => (
           ]}>
           <html lang="en" />
         </Helmet>
+        <GlobalStyle />
         <Header siteTitle={data.site.siteMetadata.title} />
         <Content>{children}</Content>
       </>
