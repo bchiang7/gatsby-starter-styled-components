@@ -22,30 +22,30 @@
     ]
   },
   "dependencies": {
-    "babel-plugin-styled-components": "^1.8.0",
-    "gatsby": "^2.0.50",
-    "gatsby-plugin-manifest": "^2.0.9",
-    "gatsby-plugin-netlify": "^2.0.5",
-    "gatsby-plugin-offline": "^2.0.15",
-    "gatsby-plugin-react-helmet": "^3.0.2",
-    "gatsby-plugin-styled-components": "^3.0.2",
+    "babel-plugin-styled-components": "^1.9.2",
+    "gatsby": "^2.0.61",
+    "gatsby-plugin-manifest": "^2.0.11",
+    "gatsby-plugin-netlify": "^2.0.6",
+    "gatsby-plugin-offline": "^2.0.18",
+    "gatsby-plugin-react-helmet": "^3.0.4",
+    "gatsby-plugin-styled-components": "^3.0.4",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-helmet": "^5.2.0",
-    "styled-components": "^4.1.1"
+    "styled-components": "^4.1.2"
   },
   "devDependencies": {
-    "@upstatement/eslint-config": "0.3.0",
+    "@upstatement/eslint-config": "^0.3.1",
     "@upstatement/prettier-config": "^0.3.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.9.0",
     "eslint-config-prettier": "^3.3.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1",
-    "husky": "^1.1.4",
-    "lint-staged": "^8.0.4",
-    "prettier": "^1.15.2",
+    "husky": "^1.2.0",
+    "lint-staged": "^8.1.0",
+    "prettier": "^1.15.3",
     "pretty-quick": "^1.8.0"
   }
 }
